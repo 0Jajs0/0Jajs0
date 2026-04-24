@@ -1,4 +1,4 @@
-# 🚀 Hello World, moi c'est [Haja] !
+# 🚀 Yo, moi c'est Haja !
 
 Je suis un **Développeur Junior** passionné par le bas niveau, l'infrastructure système et le développement de jeux vidéo. Actuellement étudiant à **42 Antananarivo**, j'aime comprendre comment les choses fonctionnent sous le capot, du kernel Linux aux protocoles réseau.
 
